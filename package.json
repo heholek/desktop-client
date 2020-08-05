@@ -35,7 +35,7 @@
   "dependencies": {
     "@ledgerhq/hw-app-str": "^4.15.0",
     "@ledgerhq/hw-transport-node-hid": "^4.15.0",
-    "angular": "^1.7.2",
+    "angular": "^1.8.0",
     "angular-chart.js": "^1.1.1",
     "angular-qrcode": "^7.2.0",
     "angular-route": "^1.7.2",
